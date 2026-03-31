@@ -1,7 +1,7 @@
 ### 01-Reshape.R
 # install.packages("reshape2")
 # library(reshape2)
-
+# Hi I eddited this file and will commit the changes.
 ## Tidy data
 
 # Values in column names 
